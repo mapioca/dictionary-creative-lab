@@ -528,7 +528,7 @@ a {
     height: 100%;
     line-height: 50px;
     outline: none !important;
-    padding-left: 25px;
+    padding-left: 5px;
     color: #7f7f7f;
     float: left
 }
@@ -1025,7 +1025,7 @@ select option {
     background: #FFFFFF;
     border: none;
     outline: none;
-    padding-left: 25px
+    padding-left: 25px;
 }
 
 .page_menu_item {
